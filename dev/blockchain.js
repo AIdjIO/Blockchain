@@ -36,7 +36,7 @@ Blockchain.prototype.getLastBlock = function() {
     return this.chain[this.chain.length-1];
 }
 
-Blockchain.prototype.createNewTrasnsaction = function (amount, sender, receipient) {
+Blockchain.prototype.createNewTransaction = function (amount, sender, receipient) {
     const newTransaction = {
         amount: amount,
         sender: sender,
@@ -61,7 +61,6 @@ Blockchain.prototype.proofOfWork = function(previousBlockHash, currentBlockData)
     while (hash.substring(0,4) !== '0000') {
         nonce++;
         hash = this.hashBlock(previousBlockHash, currentBlockData, nonce);
-        console.log(hash);
     }
 
     return nonce;

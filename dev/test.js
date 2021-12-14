@@ -4,13 +4,13 @@ const bitcoin = new Blockchain();
 
 // bitcoin.createNewBlock(2134,'WERTG$TGER','TUIYOKJFG1234');
 
-// bitcoin.createNewTrasnsaction(100, 'ALEX123dET4RTETE','JEN245WERTWERT');
+// bitcoin.createNewTransaction(100, 'ALEX123dET4RTETE','JEN245WERTWERT');
 
 // bitcoin.createNewBlock(122,'ykfgvds','fghkj');
 
-// bitcoin.createNewTrasnsaction(50, 'ALEX123dET4RTETE','JEN245WERTWERT');
-// bitcoin.createNewTrasnsaction(300, 'ALEX123dET4RTETE','JEN245WERTWERT');
-// bitcoin.createNewTrasnsaction(2000, 'ALEX123dET4RTETE','JEN245WERTWERT');
+// bitcoin.createNewTransaction(50, 'ALEX123dET4RTETE','JEN245WERTWERT');
+// bitcoin.createNewTransaction(300, 'ALEX123dET4RTETE','JEN245WERTWERT');
+// bitcoin.createNewTransaction(2000, 'ALEX123dET4RTETE','JEN245WERTWERT');
 
 // bitcoin.createNewBlock(987564061,'YUIOKGFDGS3245E','VBNMDFH567GHKJ');
 

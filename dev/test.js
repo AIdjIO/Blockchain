@@ -40,5 +40,3 @@ newHash = bitcoin.hashBlock(previousBlockHash, currentBlockData, 22182);
 
 console.log(newHash)
 // console.log(bitcoin);
-
-

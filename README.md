@@ -1,7 +1,7 @@
 # Blockchain
 Blockchain with Javascript
 
-## What is a Blcokchain ?
+## What is a Blockchain ?
 an immutable, distributed ledger
 
 ## What is a ledger ?

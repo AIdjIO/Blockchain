@@ -1,4 +1,4 @@
-This is just a placeholder repository to host code for ![the tutorial from Eric Traub on Blockchain](https://www.oreilly.com/library/view/learn-blockchain-programming/9781789618822/)
+This is just a placeholder repository to host code for [the tutorial from Eric Traub on Blockchain](https://www.oreilly.com/library/view/learn-blockchain-programming/9781789618822/)
 
 # Blockchain
 Blockchain with Javascript
